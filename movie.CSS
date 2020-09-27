@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(56, 55, 55)
+}
+
+header{
+    background-color: rgb(36, 32, 32);
+    height: 100px;
+    align-content: center;
+    text-align: center;
+    padding-left: 200px;
+    list-style-type: none;
+}
+
+header li{
+
+    color: rgb(110, 54, 54);
+    padding-left: 70px;
+    list-style-type: none;
+    font-size: 30px;
+    padding-bottom: 25px;
+    padding-bottom: 25px;
+    margin: 0;
+}
+
+header a:hover{
+transition: all 1s ease-in-out;
+color: rgb(128, 39, 39);
+background-color: rgb(110, 106, 106);
+list-style-type: none;
+}
+
+header ul{
+    margin: 0;
+    display: flex;
+    list-style-type: none;
+}
+
+header a{
+text-decoration: none;
+width: 250px;
+color: rgb(131, 62, 53);
+list-style-type: none;
+
+}
+
+.one{
+  background-color: rgb(252, 248, 252);
+  margin-left: 200px;
+  align-content: center;
+  border-radius: 20px;
+  width: 800px;
+  height: 100px;
+  list-style-type: none;
+}
+
+.movie img{
+width: 200px;
+height:100 ;
+padding-bottom: 50px;
+margin-top: 50px;
+text-align: center;
+align-content: center;
+list-style-type: none;
+}
+
+.movie li{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    align-content: center;
+    list-style-type: none;
+}
